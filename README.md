@@ -31,7 +31,7 @@ JsonPowerDB is used to perform CURD operation.
 # HOW TO USE STEP BY STEP
 
 * **Initially**
-<img src="./images/Homepage">
+<img src="./images/Homepage.PNG">
 
 We need to enter a roll number 
 
