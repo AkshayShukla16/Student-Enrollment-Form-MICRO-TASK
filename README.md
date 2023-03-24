@@ -23,7 +23,7 @@ JsonPowerDB is used to perform CURD operation.
 * **Alert** : This website uses disposable Alter prompt using bootstrap
 
 # Screenshots:
-<img src="/images/Data1.PNG">
+<img src="./images/Data1.PNG">
 <img src="./images/Database.PNG">
 
 
